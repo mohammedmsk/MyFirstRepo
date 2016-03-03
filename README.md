@@ -1,6 +1,8 @@
 # MyFirstRepo
 This is just a test repo.
 
+Commands to get started:
+
 mkdir repo
 
 cd repo
